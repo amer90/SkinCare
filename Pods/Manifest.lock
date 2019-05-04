@@ -1,0 +1,20 @@
+PODS:
+  - CameraManager (4.4.0)
+  - IQKeyboardManagerSwift (6.3.0)
+
+DEPENDENCIES:
+  - CameraManager (~> 4.4)
+  - IQKeyboardManagerSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CameraManager
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  CameraManager: 583710502c42178d12ef046d9d4f7893feff8354
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+
+PODFILE CHECKSUM: 6dd8f65ef1210e71a7f642fe5bc7c250be132fe6
+
+COCOAPODS: 1.6.1
